@@ -1,0 +1,31 @@
+{
+  "name": "@vandeurenglenn/typed-array-join",
+  "version": "1.0.1",
+  "description": "TypedArray.set() the join() way",
+  "type": "module",
+  "exports": {
+    ".": "./join.js"
+  },
+  "types": "./join.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typed",
+    "array",
+    "join"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VandeurenGlenn/typed-array-join.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VandeurenGlenn/typed-array-join/issues"
+  },
+  "homepage": "https://github.com/VandeurenGlenn/typed-array-join#readme",
+  "dependencies": {
+    "@vandeurenglenn/typed-array-concat": "^1.0.1"
+  }
+}
